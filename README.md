@@ -5,9 +5,9 @@
 [More markdown can be found here](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 1. Headers, or h1 to h6 tags use the # character
-* # \<h1\>
-* ##\<h2\>
-* And so on
+  * # \<h1\>
+  * ##\<h2\>
+  * And so on
 
 2. To make **bold** add two asterisk \*\*before and after the word or phrase\*\*.
 
