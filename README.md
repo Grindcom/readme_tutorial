@@ -17,4 +17,4 @@ As well as a more advanced look at GitHub writing [here](https://help.github.com
 6. Un-ordered lists start with a \*, Note that if you want an un-ordered bullet list as a sub-set of an ordered number, you have to indent before the \*.
 
 ## Convensions
-Markdown files - like this readme - should be named with .md
+Markdown files - like this readme - should be named as  \<filename\>.md
