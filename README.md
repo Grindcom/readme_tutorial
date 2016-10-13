@@ -17,3 +17,5 @@
 
 You can also find a cheat sheet [here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 As well as a more advanced look at GitHub writing [here](https://help.github.com/categories/writing-on-github/)
+
+5. Ordered lists are represented by a number followed by a period (5\.).
