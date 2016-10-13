@@ -9,10 +9,11 @@
 - ##\<h2\>
 - And so on
 
-2. To make **bold** add two asterisc \*\*before and after the word or phrase\*\*.
+2. To make **bold** add two asterisk \*\*before and after the word or phrase\*\*.
 
 3. To make _italic_ use \_ before and after the word or phrase.
 
 4. To use actual code tags surround with back ticks \`
 
-You can also find a cheatsheet [here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+You can also find a cheat sheet [here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+As well as a more advanced look at GitHub writing [here](https://help.github.com/categories/writing-on-github/)
