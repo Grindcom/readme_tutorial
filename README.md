@@ -14,3 +14,4 @@ As well as a more advanced look at GitHub writing [here](https://help.github.com
 3. To make _italic_ use \_ before and after the word or phrase.
 4. To use actual code tags surround with back ticks \`
 5. Ordered lists are represented by a number followed by a period (5\.).
+6. Un-ordered lists start with a \*, Note that if you want an un-ordered bullet list as a sub-set of an ordered number, you have to indent before the \*.
